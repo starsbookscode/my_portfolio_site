@@ -1,3 +1,1 @@
-# my_portfolio_site
-LaunchCode (STL) CoderGirl WebDevelopment track project. Design your portfolio: index page, about me, projects screenshots grid. Start with plain HTML, update it with CSS, Bootstrap, CSS Grid, Responsive webdesign (mobile first).
-
+Added some CSS styling, completely redisgned index page and navigation: now menu is linked to sections of the same page (for simplicity) with a bookmark HTML tag. Added collage of web projects. Found really nice yellow color for a background, I really like it, I will stick with it.
