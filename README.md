@@ -1,3 +1,1 @@
-# my_portfolio_site
-LaunchCode (STL) CoderGirl WebDevelopment track project. Design your portfolio: index page, about me, projects screenshots grid. Start with plain HTML, update it with CSS, Bootstrap, CSS Grid, Responsive webdesign (mobile first).
-
+Added  bootstrap to resume.html file and a linked my GitHub account to "About me" sectiom. Added "Resume" to my navigation menu and linked it to bookmark on a page. Plus some printscreens of pages.
