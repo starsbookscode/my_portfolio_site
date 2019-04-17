@@ -1,0 +1,95 @@
+  body {
+    background-color: #EEEEEE;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  h1, h2, h3 {
+  font-family: Georgia, Times, serif;
+  }
+
+  #container {
+    background-color: white
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #content {
+    padding: 10px;
+    text-align: center;
+  }
+
+  #blog {
+      text-align: left;
+      padding: 40px;
+  }
+
+  .selected {
+  font-weight: bold;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  li {
+    display: inline-block;
+  }
+
+  #header {
+    background-color: white;
+    color: #4f5d75;
+    text-align: center;
+    padding: 50px;
+  }
+
+  #portfolio {
+    background-color: #fdbf5f;
+    color: #4f5d75;
+    padding: 10px;
+  }
+
+  #about_me {
+    background-color: #fdbf5f;
+    color: #4f5d75;
+    padding: 50px;
+    text-align: left;
+  }
+
+  #intro {
+    background-color: white;
+    color: #4f5d75;
+    text-align: left;
+    padding: 50px;
+  }
+
+  #resume {
+    color: #4f5d75
+    padding: 50px;
+  }
+
+  #blog {
+    background-color: white;
+    color: #4f5d75;
+    text-align: left;
+    padding: 50px;
+
+  }
+
+  #contacts {
+    background-color: white;
+    color: #4f5d75;
+    padding: 50px;
+  }
+
+  #footer {
+    background-color: #fdbf5f;
+    color: white;
+    text-align: center;
+    padding: 20px
+
+  }
