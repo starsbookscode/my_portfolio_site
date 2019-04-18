@@ -1,1 +1,1 @@
-Added some CSS styling, completely redisgned index page and navigation: now menu is linked to sections of the same page (for simplicity) with a bookmark HTML tag. Added collage of web projects. Found really nice yellow color for a background, I really like it, I will stick with it.
+Added some CSS styling, completely redisgned index page and navigation: now menu is linked to sections of the same page (for simplicity) with a bookmark HTML tag. Added collage of web projects and background color to some sections. Plus printscreens of pages. 
